@@ -34,7 +34,7 @@ I’ve trained numerous machine learning models on various datasets, tackling pr
 Currently, I am exploring the intersection of AI and web development, working on projects that involve integrating generative AI into modern web applications. My goal is to create intuitive and powerful platforms that provide cutting-edge solutions.
 
 ## 📫 How to Reach Me:
-Feel free to connect with me! I love collaborating with other tech enthusiasts, innovators, and creators. You can reach me through my GitHub profile or by email at [your-email@example.com].
+Feel free to connect with me! I love collaborating with other tech enthusiasts, innovators, and creators. You can reach me through my GitHub profile or by email at [srishsaket106879@gmail.com].
 
 ---
 
